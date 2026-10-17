@@ -12,6 +12,7 @@ import androidx.media3.common.*
 import androidx.media3.common.audio.SonicAudioProcessor
 import androidx.media3.effect.SpeedChangeEffect
 import androidx.media3.transformer.*
+import androidx.media3.transformer.Composition
 import kotlinx.coroutines.*
 import java.io.File
 
